@@ -1,2 +1,2 @@
 # workshop-demo
-Git demo works well.
+Git demo works well
